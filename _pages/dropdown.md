@@ -11,3 +11,5 @@ children:
   - title: blog
     permalink: /blog/
 ---
+
+Change the file name to `dropdown.md`. It creates a dropdown menu for all the entries if there are too many I guess
