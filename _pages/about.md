@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "`name.surname` at `inf.ethz.ch`"
 
@@ -26,12 +26,11 @@ latest_posts:
 
 ### About me
 
-I am a postdoc at ETH Zurich since August 2025 in the [Foudation of Cryptography](https://foc.ethz.ch/) group led by [Dennis Hofheinz](https://people.inf.ethz.ch/dhofheinz/).
-Previously, in June 2025 I defended my PhD in cryptogtaphy at [IMDEA Software Institute](https://software.imdea.https://www.unict.it/org/people/) under the supervision of [Ignacio Cascudo](https://software.imdea.org/~ignacio.cascudo/).
-I obtained both my Bachelor and Master degree in mathematics at [University of Catania](https://www.unict.it/) under the supervision of [Dario Catalano](https://catalano.dmi.unict.it/).
+I am postdoctoral researcher at ETH Zürich, working in the [Foudation of Cryptography](https://foc.ethz.ch/) group led by [Dennis Hofheinz](https://people.inf.ethz.ch/dhofheinz/).
+Previously, I completed my PhD in cryptogtaphy at [IMDEA Software Institute](https://software.imdea.https://www.unict.it/org/people/) under the supervision of [Ignacio Cascudo](https://software.imdea.org/~ignacio.cascudo/) in June 2025.
+I obtained both my Bachelor's and Master's degree in mathematics from the [University of Catania](https://www.unict.it/) under the supervision of [Dario Catalano](https://catalano.dmi.unict.it/).
 
-My research interests mainly revolve around theoretical problems in cryptography, such as the feasbility of constructions under minimal assumptions, as well as their limitations either in the plain model or in idealized ones (eg. ROM, GGM, GAM). 
-I am also interested in blockchain applications (eg. consensus, secret sharing) and steganography.
+My research focuses primarily on theoretical problems in cryptography, including the feasibility of constructions under minimal assumptions and their limitations either in the standard model or idealized ones (e.g., ROM, GGM, GAM). I am also interested in blockchain applications (such as consensus and secret sharing) and steganography.
 
 ### News
-- `10/08/2025` The website is online!
+- `10/08/2025` the website is online!
