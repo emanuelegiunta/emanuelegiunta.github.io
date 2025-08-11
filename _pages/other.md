@@ -8,7 +8,7 @@ nav_order: 9
 ---
 
 ### Crypto Template
-As most researchers, I have a [LaTeX template](https://github.com/emanuelegiunta/crypto_template?tab=readme-ov-fil) I use for research papers, originally forked from [Matteo Campanelli's](https://github.com/matteocam/lncs-latex-template). Feel free to fork it, copy parts of it, or help me improve it!
+I have a [LaTeX template](https://github.com/emanuelegiunta/crypto_template?tab=readme-ov-fil) I use for research papers, originally forked from [Matteo Campanelli's](https://github.com/matteocam/lncs-latex-template). Feel free to fork it, copy parts of it, or help me improve it!
 
 ### Non-Research Interests
 Here you can find interests of mine unrelated to research I am always happy to discuss about.
